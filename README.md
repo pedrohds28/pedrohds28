@@ -51,18 +51,6 @@
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrohds28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohds28&layout=compact&langs_count=7&theme=dracula" />
-</p>
-<p align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohds28&theme=dracula" />
-</p>
-
----
-
 ### 📂 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias | Link |
